@@ -9,8 +9,8 @@ namespace CsTutorial
     internal class Hund
     {
         // Felder
-        public string name; // Achtung - in der Praxis nicht public verwenden!
-        public int alter; // Achtung - in der Praxis nicht public verwenden!
+        public string name; // Achtung - in der Praxis public nicht für Felder verwenden!
+        public int alter; // Achtung - in der Praxis public nicht für Felder verwenden!
 
 
         // Methoden
